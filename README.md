@@ -4,6 +4,8 @@
 Practice setting up an simple aws EC2 web app with terraform.  
 - iam 
 - ec2
+- s3
+- dynamo db
 - vpc and web security
 - application load balancer
 - monitor&alert with cloud watch 
